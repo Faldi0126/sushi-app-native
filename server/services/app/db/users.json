@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "Faldi",
+    "email": "faldi@mail.com",
+    "password": "12345",
+    "role": "admin",
+    "phoneNumber": "12345",
+    "address": "Baverly Hills"
+  },
+  {
+    "id": 2,
+    "username": "Banana",
+    "email": "banana@mail.com",
+    "password": "12345",
+    "role": "admin",
+    "phoneNumber": "12345",
+    "address": "Baverly Hills"
+  }
+]

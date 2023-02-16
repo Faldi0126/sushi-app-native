@@ -1,0 +1,20 @@
+version: "3.6"
+services:
+    app-service:
+        build: ./services/app
+        container_name: app-service
+        ports:
+            - "4002:4002"
+        environment:
+            NODE_ENV: "production"
+
+    user-service:
+        build: ./services/user
+        container_name: user-service
+        ports:
+            - "4001:4001"
+    orcherstrator-service:
+        build: ./orcherstrator
+        container_name: orcherstrator
+        ports: 
+            - "4000:4000"

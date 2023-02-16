@@ -1,0 +1,77 @@
+[
+  {
+    "itemId": 3,
+    "name": [
+      "Tuna belly",
+      "okuro",
+      "cucumber",
+      "soft-shell crab"
+    ]
+  },
+  {
+    "itemId": 1,
+    "name": [
+      "Salmon",
+      "avocado",
+      "cucumber"
+    ]
+  },
+  {
+    "itemId": 2,
+    "name": [
+      "Strawberry syrup",
+      "strawberry",
+      "condensed milk"
+    ]
+  },
+  {
+    "itemId": 4,
+    "name": [
+      "Rice",
+      "teriyaki beef",
+      "salad"
+    ]
+  },
+  {
+    "itemId": 5,
+    "name": [
+      "Fresh salmon belly"
+    ]
+  },
+  {
+    "itemId": 6,
+    "name": [
+      "Imitation crab",
+      "cucumber",
+      "avocado",
+      "salmon"
+    ]
+  },
+  {
+    "itemId": 7,
+    "name": [
+      "Tuna",
+      "Rice"
+    ]
+  },
+  {
+    "itemId": 8,
+    "name": [
+      "Salmon",
+      "Rice"
+    ]
+  },
+  {
+    "itemId": 9,
+    "name": [
+      "Fresh salmon"
+    ]
+  },
+  {
+    "itemId": 10,
+    "name": [
+      "Rice",
+      "Chicken Teriyaki"
+    ]
+  }
+]
